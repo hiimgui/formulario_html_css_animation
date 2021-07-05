@@ -1,0 +1,21 @@
+input[type="text"]:hover,[type="email"]:hover,[type="password"]:hover{
+    background-color: white;
+    width: 100%;
+    border: none;
+    padding: 10px;
+    outline: none;
+    background: none;
+    color: purple;
+    border-bottom: 1px solid purple;
+    transition: all 0.3s ease-in-out;
+}
+
+h1:hover{
+    color: white;
+}
+
+button.btn:hover{
+    background-color: white;
+    color: purple;
+    font-weight: bold;
+}
